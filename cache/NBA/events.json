@@ -599,9 +599,9 @@
         "selections": [
           {
             "selectionId": 237492,
-            "odds": "+460",
+            "odds": "+480",
             "handicap": 0,
-            "impliedProbability": 0.17175572519083965,
+            "impliedProbability": 0.16592920353982304,
             "runnerName": "Denver Nuggets",
             "runnerStatus": "ACTIVE",
             "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446073&selectionId=237492&shareBetId=partner_dsg",
@@ -610,9 +610,9 @@
           },
           {
             "selectionId": 40274538,
-            "odds": "-620",
+            "odds": "-650",
             "handicap": 0,
-            "impliedProbability": 0.8282442748091602,
+            "impliedProbability": 0.834070796460177,
             "runnerName": "Philadelphia 76ers",
             "runnerStatus": "ACTIVE",
             "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446073&selectionId=40274538&shareBetId=partner_dsg",
@@ -634,9 +634,9 @@
           {
             "selectionId": 7017823,
             "odds": "-110",
-            "handicap": 230.5,
+            "handicap": 229.5,
             "impliedProbability": 0.5,
-            "formattedHandicap": "O 230.5",
+            "formattedHandicap": "O 229.5",
             "runnerName": "Over",
             "runnerStatus": "ACTIVE",
             "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548873104&selectionId=7017823&shareBetId=partner_dsg",
@@ -646,9 +646,9 @@
           {
             "selectionId": 7017824,
             "odds": "-110",
-            "handicap": 230.5,
+            "handicap": 229.5,
             "impliedProbability": 0.5,
-            "formattedHandicap": "U 230.5",
+            "formattedHandicap": "U 229.5",
             "runnerName": "Under",
             "runnerStatus": "ACTIVE",
             "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548873104&selectionId=7017824&shareBetId=partner_dsg",
